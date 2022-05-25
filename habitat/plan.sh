@@ -3,8 +3,7 @@ pkg_origin=akash_habitat
 pkg_version="0.1.0"
 pkg_scaffolding="core/scaffolding-ruby"
 pkg_deps=( core/imagemagick )
-
-
+pkg_deps=( akash_habitat/imagemagick )
 
 
 # # This file is the heart of your application's habitat.
